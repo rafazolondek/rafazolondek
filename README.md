@@ -1,7 +1,7 @@
 ## Olá, eu sou Adrian Rafael Zolondek
 
 
-- 🔭 No momento não estou trabalhando com programação
+<!-- - 🔭 No momento não estou trabalhando com programação -->
 - 🌱 Estudando JavaScript
 
 <div align="center">
