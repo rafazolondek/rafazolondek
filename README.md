@@ -2,11 +2,14 @@
 
 
 <!-- - 🔭 No momento não estou trabalhando com programação -->
+Sobre mim:
+<br>
+Estudante de Engenharia de Software na UGV - Centro Universitário com foco em programação fullstack.
 <p>Tecnologias:
-                HTML
-                CSS
-                JavaScript
-                Node.js
+                HTML,
+                CSS,
+                JavaScript,
+                Node.js e
                 Java
                 </p>
 
