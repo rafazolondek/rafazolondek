@@ -2,7 +2,13 @@
 
 
 <!-- - 🔭 No momento não estou trabalhando com programação -->
-- 🌱 Estudando JavaScript
+<p>Tecnologias:
+                HTML
+                CSS
+                JavaScript
+                Node.js
+                Java
+                </p>
 
 
   
