@@ -10,8 +10,9 @@ Estudante de Engenharia de Software na UGV - Centro Universitário com foco em p
                 HTML,
                 CSS,
                 JavaScript,
-                Node.js e
-                Java
+                Node.js,
+                Java e
+                Kotlin
                 </p>
 
 
